@@ -1,2 +1,4 @@
-# sasi460.github.io
-This my website
+# sasivardhan
+## Educational details
+***College name*** sri vasavi engineering college
+**Traning source** Source code managnement using git and git hub
